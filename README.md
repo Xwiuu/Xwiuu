@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  --👋 Sou o Wiu — programador front-end e estrategista de marketing digital.<br>
+  --👋 Sou o Wiu programador front-end e estrategista de marketing digital.<br>
   <br>
   --💻 Crio interfaces que não só funcionam, mas vendem.<br>
   <br>
