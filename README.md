@@ -8,7 +8,7 @@ Construo **produtos, sistemas e experiências digitais** com foco em impacto rea
 ---
 
 <p align="center">
-  <i>Menos hype. Mais sistemas.</i>
+  <i>A Magia em que voce procura esta no trabalho que voce ignora!</i>
 </p>
 
 </div>
@@ -38,6 +38,7 @@ Penso como **founder**, executo como **dev profissional** e analiso como **ataca
 
 ### Front-end & Produto
 - React, TSX
+- Vue
 - Angular
 - HTML, CSS, JavaScript
 - UX, CRO e comportamento do usuário
