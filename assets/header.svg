@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050807"/><stop offset="1" stop-color="#07140f"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#10b981"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#173027" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="20" fill="url(#grid)" opacity=".55"/>
+<rect x="1" y="1" width="1198" height="318" rx="19" fill="none" stroke="#285341"/>
+<text x="64" y="68" fill="#6ee7b7" font-family="monospace" font-size="16" letter-spacing="3">XWIUU // PROFILE</text>
+<text x="64" y="164" fill="#f0fdf4" font-family="Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="3">WILLIAM REIS</text>
+<rect x="64" y="190" width="670" height="4" rx="2" fill="url(#line)"/>
+<text x="64" y="234" fill="#b8cfc4" font-family="monospace" font-size="20" letter-spacing="2">SOFTWARE · SECURITY · ARTIFICIAL INTELLIGENCE</text>
+<text x="64" y="274" fill="#668476" font-family="monospace" font-size="15">BUILDING SECURE PRODUCTS AND INTELLIGENT SYSTEMS.</text>
+<circle cx="1010" cy="160" r="92" fill="none" stroke="#10b981" opacity=".3"/>
+<circle cx="1010" cy="160" r="58" fill="none" stroke="#34d399" opacity=".5"/>
+<circle cx="1010" cy="160" r="10" fill="#34d399"/>
+<path d="M1010 160L1085 112" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+<path d="M890 160H1130M1010 40V280" stroke="#245140" opacity=".55"/>
+</svg>
