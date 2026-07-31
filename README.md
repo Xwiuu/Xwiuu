@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Mr.Wiuu — Software Engineering, Cybersecurity and AI Systems" />
-
-<br />
+<h1><samp>Mr.Wiuu</samp></h1>
 
 [![Software Engineering](https://img.shields.io/badge/SOFTWARE-ENGINEERING-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
 [![Cybersecurity](https://img.shields.io/badge/CYBER-SECURITY-111111?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)](#)
