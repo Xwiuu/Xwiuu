@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="William Reis" />
+<img src="./assets/header.svg" width="100%" alt="Mr.Wiuu — Software Engineering, Cybersecurity and AI Systems" />
 
 <br />
 
