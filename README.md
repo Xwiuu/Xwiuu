@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="William Reis — Software Engineering, Cybersecurity and AI Systems" />
+<img src="./assets/header.svg" width="100%" alt="William Reis" />
 
 <br />
 
@@ -93,8 +93,10 @@ STATUS       Learning deeply. Building constantly. Shipping deliberately.
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xwiuu&theme=github_dark" alt="GitHub activity overview" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xwiuu&theme=github_dark" alt="GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xwiuu&theme=github_dark" alt="Most used languages" />
+<br />
+<br />
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xwiuu&theme=github_dark" alt="GitHub statistics" />
 
 </div>
 
