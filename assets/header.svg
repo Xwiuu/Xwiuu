@@ -1,20 +1,66 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050807"/><stop offset="1" stop-color="#07140f"/></linearGradient>
-<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#10b981"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#173027" stroke-width="1"/></pattern>
-</defs>
-<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="320" rx="20" fill="url(#grid)" opacity=".55"/>
-<rect x="1" y="1" width="1198" height="318" rx="19" fill="none" stroke="#285341"/>
-<text x="64" y="68" fill="#6ee7b7" font-family="monospace" font-size="16" letter-spacing="3">XWIUU // PROFILE</text>
-<text x="64" y="164" fill="#f0fdf4" font-family="Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="3">WILLIAM REIS</text>
-<rect x="64" y="190" width="670" height="4" rx="2" fill="url(#line)"/>
-<text x="64" y="234" fill="#b8cfc4" font-family="monospace" font-size="20" letter-spacing="2">SOFTWARE · SECURITY · ARTIFICIAL INTELLIGENCE</text>
-<text x="64" y="274" fill="#668476" font-family="monospace" font-size="15">BUILDING SECURE PRODUCTS AND INTELLIGENT SYSTEMS.</text>
-<circle cx="1010" cy="160" r="92" fill="none" stroke="#10b981" opacity=".3"/>
-<circle cx="1010" cy="160" r="58" fill="none" stroke="#34d399" opacity=".5"/>
-<circle cx="1010" cy="160" r="10" fill="#34d399"/>
-<path d="M1010 160L1085 112" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
-<path d="M890 160H1130M1010 40V280" stroke="#245140" opacity=".55"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#020202"/>
+      <stop offset="1" stop-color="#0b0b0b"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity=".022"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ffffff" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#scanlines)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="19" fill="none" stroke="#ffffff" stroke-opacity=".28"/>
+
+  <path d="M38 42h18M38 42v24M38 278h18M38 254v24" stroke="#ffffff" stroke-opacity=".9" stroke-width="2"/>
+  <path d="M780 42h18M780 42v24M780 278h18M780 254v24" stroke="#ffffff" stroke-opacity=".45" stroke-width="2"/>
+
+  <text x="64" y="66" fill="#b9b9b9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="3">XWIUU // PROFILE</text>
+
+  <text x="68" y="162" fill="#7a7a7a" opacity=".18" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="900" letter-spacing="3">WILLIAM REIS</text>
+  <text x="62" y="158" fill="#f4f4f5" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="900" letter-spacing="3">WILLIAM REIS</text>
+  <text x="64" y="158" fill="none" stroke="#ffffff" stroke-opacity=".18" stroke-width="1" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="900" letter-spacing="3">WILLIAM REIS</text>
+
+  <rect x="64" y="184" width="670" height="2" fill="url(#fade)"/>
+  <text x="64" y="226" fill="#d4d4d8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" letter-spacing="2">SOFTWARE · SECURITY · ARTIFICIAL INTELLIGENCE</text>
+  <text x="64" y="260" fill="#8b8b92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">BUILDING SECURE PRODUCTS AND INTELLIGENT SYSTEMS.</text>
+
+  <rect x="64" y="276" width="360" height="28" rx="4" fill="#0d0d0f" stroke="#ffffff" stroke-opacity=".24"/>
+  <text x="80" y="295" fill="#d4d4d8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">build → understand → secure → evolve</text>
+
+  <rect x="820" y="42" width="330" height="236" rx="10" fill="#050505" stroke="#ffffff" stroke-opacity=".24"/>
+  <path d="M842 64h18M842 64v18M1128 64h-18M1128 64v18M842 256h18M842 256v-18M1128 256h-18M1128 256v-18" stroke="#ffffff" stroke-opacity=".65" stroke-width="1.5"/>
+
+  <text x="846" y="84" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">root@xwiuu:~# systemctl status profile</text>
+  <line x1="846" y1="98" x2="1124" y2="98" stroke="#ffffff" stroke-opacity=".12"/>
+
+  <text x="846" y="124" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">IDENTITY   SOFTWARE / SECURITY / AI</text>
+  <text x="846" y="148" fill="#b5b5bb" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">KERNEL     LINUX</text>
+  <text x="846" y="172" fill="#b5b5bb" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">NETWORK    ONLINE</text>
+  <text x="846" y="196" fill="#b5b5bb" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">MODE       BUILD / UNDERSTAND / SECURE</text>
+
+  <g stroke="#ffffff" stroke-opacity=".34" fill="#ffffff">
+    <line x1="856" y1="232" x2="1108" y2="232"/>
+    <line x1="856" y1="216" x2="856" y2="244"/>
+    <line x1="900" y1="216" x2="900" y2="244"/>
+    <line x1="944" y1="216" x2="944" y2="244"/>
+    <line x1="988" y1="216" x2="988" y2="244"/>
+    <line x1="1032" y1="216" x2="1032" y2="244"/>
+    <line x1="1076" y1="216" x2="1076" y2="244"/>
+    <polyline points="856,232 880,228 900,236 924,218 944,226 968,210 988,234 1012,222 1032,228 1056,214 1076,226 1108,218" fill="none" stroke="#ffffff" stroke-opacity=".82" stroke-width="2"/>
+    <circle cx="924" cy="218" r="3"/>
+    <circle cx="968" cy="210" r="3"/>
+    <circle cx="1056" cy="214" r="3"/>
+  </g>
+
+  <text x="1120" y="300" text-anchor="end" fill="#71717a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">SYSTEMS // SECURITY // INTELLIGENCE</text>
 </svg>

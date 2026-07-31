@@ -4,9 +4,9 @@
 
 <br />
 
-[![Software Engineering](https://img.shields.io/badge/SOFTWARE-ENGINEERING-0D1117?style=for-the-badge&logo=github&logoColor=34D399)](#)
-[![Cybersecurity](https://img.shields.io/badge/CYBER-SECURITY-0D1117?style=for-the-badge&logo=kalilinux&logoColor=34D399)](#)
-[![AI Systems](https://img.shields.io/badge/AI-SYSTEMS-0D1117?style=for-the-badge&logo=openai&logoColor=34D399)](#)
+[![Software Engineering](https://img.shields.io/badge/SOFTWARE-ENGINEERING-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
+[![Cybersecurity](https://img.shields.io/badge/CYBER-SECURITY-111111?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)](#)
+[![AI Systems](https://img.shields.io/badge/AI-SYSTEMS-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF)](#)
 
 ### Building secure software, intelligent systems and Linux-first infrastructure.
 
@@ -36,11 +36,11 @@ STATUS       Learning deeply. Building constantly. Shipping deliberately.
 
 ### `01 // Backend & Systems`
 
-<img src="https://skillicons.dev/icons?i=python,go,java,rust,nodejs,fastapi&theme=dark" alt="Backend and systems stack" />
+<img src="https://skillicons.dev/icons?i=python,go,java,rust,nodejs,fastapi,perl,nim,cpp,bash,cs,dotnet&theme=dark&perline=6" alt="Backend and systems stack: Python, Go, Java, Rust, Node.js, FastAPI, Perl, Nim, C++, Bash, C# and .NET" />
 
 <br />
 
-`APIs` · `Services` · `Automation` · `System tooling`
+`APIs` · `Services` · `Automation` · `System tooling` · `CLI`
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -60,20 +60,22 @@ STATUS       Learning deeply. Building constantly. Shipping deliberately.
 
 ### `03 // Infrastructure & Linux`
 
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,bash,nginx,githubactions&theme=dark" alt="Linux and infrastructure stack" />
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,bash,nginx,githubactions,git,github,cloudflare,postgres,redis&theme=dark&perline=7" alt="Linux and infrastructure stack" />
 
 <br />
 
-`Linux-first` · `Containers` · `Networking` · `Delivery`
+`Linux-first` · `Containers` · `SSH` · `TCP/IP` · `DNS` · `Networking`
+
+`CI/CD` · `Reverse proxy` · `Databases` · `Servers` · `Virtualization` · `Homelab`
 
 </td>
 <td width="50%" valign="top" align="center">
 
 ### `04 // Security & AI`
 
-<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=34D399" alt="OWASP" />
-<img src="https://img.shields.io/badge/WIRESHARK-0D1117?style=for-the-badge&logo=wireshark&logoColor=34D399" alt="Wireshark" />
-<img src="https://img.shields.io/badge/OPENAI-0D1117?style=for-the-badge&logo=openai&logoColor=34D399" alt="OpenAI" />
+<img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp&logoColor=FFFFFF" alt="OWASP" />
+<img src="https://img.shields.io/badge/WIRESHARK-111111?style=for-the-badge&logo=wireshark&logoColor=FFFFFF" alt="Wireshark" />
+<img src="https://img.shields.io/badge/OPENAI-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
 
 <br />
 
@@ -91,8 +93,8 @@ STATUS       Learning deeply. Building constantly. Shipping deliberately.
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xwiuu&theme=github_dark" alt="GitHub activity overview" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xwiuu&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&icon_color=34D399&border_color=1F6F50" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xwiuu&layout=compact&langs_count=8&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&border_color=1F6F50" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xwiuu&theme=github_dark" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xwiuu&theme=github_dark" alt="Most used languages" />
 
 </div>
 
