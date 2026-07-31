@@ -1,34 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#020202"/>
-      <stop offset="1" stop-color="#0a0a0a"/>
+      <stop stop-color="#010101"/>
+      <stop offset="1" stop-color="#090909"/>
     </linearGradient>
-    <pattern id="scanlines" width="5" height="5" patternUnits="userSpaceOnUse">
-      <rect width="5" height="1" fill="#ffffff" opacity=".018"/>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity=".022"/>
     </pattern>
-    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#ffffff" stop-opacity=".82"/>
+    <radialGradient id="halo" cx="50%" cy="48%" r="46%">
+      <stop stop-color="#ffffff" stop-opacity=".045"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
+    </radialGradient>
   </defs>
 
   <rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="220" rx="18" fill="url(#halo)"/>
   <rect width="1200" height="220" rx="18" fill="url(#scanlines)"/>
-  <rect x="1" y="1" width="1198" height="218" rx="17" fill="none" stroke="#ffffff" stroke-opacity=".18"/>
+  <rect x="1" y="1" width="1198" height="218" rx="17" fill="none" stroke="#ffffff" stroke-opacity=".15"/>
 
-  <path d="M34 34h20M34 34v20M34 186h20M34 166v20" stroke="#ffffff" stroke-opacity=".48" stroke-width="1.5"/>
-  <path d="M1166 34h-20M1166 34v20M1166 186h-20M1166 166v20" stroke="#ffffff" stroke-opacity=".18" stroke-width="1.5"/>
+  <text x="18" y="25" fill="#b9b9bf" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">mr.wiuu@xwiuu:~#</text>
+  <rect x="174" y="12" width="9" height="16" fill="#f5f5f5" opacity=".88"/>
 
-  <text x="68" y="62" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="5">MR</text>
+  <text x="603" y="124" text-anchor="middle" fill="#ffffff" opacity=".08" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="1">Mr.Wiuu</text>
+  <text x="600" y="121" text-anchor="middle" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="1">Mr.Wiuu</text>
 
-  <text x="68" y="143" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="850" letter-spacing="3">WILLIAM REIS</text>
-  <rect x="68" y="166" width="560" height="2" fill="url(#rule)"/>
-
-  <g opacity=".16" stroke="#ffffff">
-    <line x1="1008" y1="54" x2="1008" y2="168"/>
-    <line x1="1036" y1="42" x2="1036" y2="180"/>
-    <line x1="1064" y1="66" x2="1064" y2="156"/>
-    <line x1="1092" y1="50" x2="1092" y2="172"/>
+  <g transform="translate(600 151)">
+    <rect x="-22" y="0" width="44" height="44" rx="3" fill="#050505" stroke="#ffffff" stroke-opacity=".42"/>
+    <path d="M-12 12L0 30L12 12M-12 32V12M12 32V12" fill="none" stroke="#f5f5f5" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"/>
   </g>
+
+  <path d="M1134 109C1136 101 1140 97 1148 95C1140 93 1136 89 1134 81C1132 89 1128 93 1120 95C1128 97 1132 101 1134 109Z" fill="#f5f5f5" opacity=".62"/>
 </svg>
